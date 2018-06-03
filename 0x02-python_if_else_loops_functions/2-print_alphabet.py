@@ -1,6 +1,6 @@
 #!/usr/bin/python
-store = ''
+store = []
 for each in range(97, 123):
     a = chr(each)
-    store = store + a
+    print store.append(a)
 print(store)
