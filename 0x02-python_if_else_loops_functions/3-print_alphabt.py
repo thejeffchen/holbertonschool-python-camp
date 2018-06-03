@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 store = ''
 for each in range(97, 123):
     a = chr(each)
