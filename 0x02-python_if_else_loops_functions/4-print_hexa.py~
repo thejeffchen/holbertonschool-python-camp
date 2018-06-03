@@ -1,0 +1,2 @@
+for each in range (0,99):
+    print(each + ' = ' + hex(each))
