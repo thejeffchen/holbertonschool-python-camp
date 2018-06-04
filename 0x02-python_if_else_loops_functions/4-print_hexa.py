@@ -1,2 +1,2 @@
 for each in range (0,99):
-    print(str(each) + ' = ' + str(hex(each)))
+    print("{} = {}".format(each, hex(each)))
